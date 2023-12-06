@@ -1,5 +1,5 @@
-<div align="center">⚡👾🔮</div>
-<div align="center">most of my repo is private</div>
+<div align="center"><h4>⚡👾🔮</h4></div>
+<div align="center"><h4>Most of my repo is private</h4></div>
 
 <img src="https://raw.githubusercontent.com/euhjs/euhjs/output/snake.svg" alt="Snake animation" />
 
