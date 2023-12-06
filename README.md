@@ -1,3 +1,6 @@
+<div align="center">⚡👾🔮</div>
+<div align="center">most of my repo is private</div>
+
 <img src="https://raw.githubusercontent.com/euhjs/euhjs/output/snake.svg" alt="Snake animation" />
 
 ###
