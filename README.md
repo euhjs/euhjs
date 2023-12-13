@@ -37,5 +37,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=euhjs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=euhjs&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
-<div align="center"><a href="https://wakatime.com/@12058cd2-fbc9-4a6f-9954-8760d210c44c"><img src="https://wakatime.com/badge/user/12058cd2-fbc9-4a6f-9954-8760d210c44c.svg" alt="Total time coded since May 2 2021" /></a></div>
 ###
